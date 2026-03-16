@@ -6,4 +6,10 @@ My daily coding and learning journey
 - solved Best Time to buy stock (212/212)
 - Installed Linux (Ubuntu) on Windows
 - Ran First Linux commands
-- created first Linux folder
+  
+
+
+##Day -2✅ -- Mar 16, 2026
+- solved contains duplicates in leetcode
+- learned python file handling
+- practiced Linux commands 
