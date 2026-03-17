@@ -8,8 +8,15 @@ My daily coding and learning journey
 - Ran First Linux commands
   
 
-
 ##Day -2✅ -- Mar 16, 2026
 - solved contains duplicates in leetcode
 - learned python file handling
 - practiced Linux commands 
+
+
+## Day 3 ✅ — Mar 17, 2026
+- Mastered chmod (10 problems)
+- Learned nano text editor
+- Learned vim text editor
+- Week 3 Linux COMPLETE!
+- Started Python os module
